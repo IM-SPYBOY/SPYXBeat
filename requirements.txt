@@ -52,3 +52,6 @@ gpytranslate
 openai==0.28.0
 mpv
 moviepy
+pyrogram
+Flask
+gunicorn

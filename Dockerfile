@@ -9,4 +9,6 @@ COPY . /app/
 WORKDIR /app/
 RUN pip3 install --no-cache-dir -U -r requirements.txt
 
-CMD bash start
+EXPOSE 7070
+
+CMD ["bash", "start.sh"]

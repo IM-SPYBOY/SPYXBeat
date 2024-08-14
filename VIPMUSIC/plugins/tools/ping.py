@@ -102,10 +102,10 @@ async def ping_com(client, message: Message, _):
         ],
         [
             InlineKeyboardButton(
-                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/Ur_rishu_143",
+                text="✦ ɢʀᴏᴜᴘ ✦", url=f"https://t.me/spytube_chat",
             ),
             InlineKeyboardButton(
-                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/ur_rishu_143",
+                text="✧ ᴍᴏʀᴇ ✧", url=f"https://t.me/spy_tube",
             )
         ],
         [
